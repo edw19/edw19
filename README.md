@@ -2,6 +2,8 @@
 ```js 
 const Readme = powerFull;
 ```
+[![edw19's github stats](https://github-readme-stats.vercel.app/api?username=edw19&show_icons=true&theme=dark )](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **edw19/edw19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
