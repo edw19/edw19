@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+```js 
+const Readme = powerFull;
+```
 <!--
 **edw19/edw19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
